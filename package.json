@@ -1,0 +1,30 @@
+{
+  "name": "electron-test",
+  "version": "0.0.1",
+  "description": "My very first attempt at building a desktop application using the Electron.js framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "firstApp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kraftsman1.git"
+  },
+  "keywords": [
+    "electron.js",
+    "test",
+    "app",
+    "Asigri",
+    "Shamsu-Deen"
+  ],
+  "author": "Asigri Shamsu-Deen Al-Heyr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://www.github.com/Kraftsman1/issues"
+  },
+  "homepage": "https://www.github.com/Kraftsman1#readme",
+  "devDependencies": {
+    "electron": "^3.0.3"
+  }
+}
